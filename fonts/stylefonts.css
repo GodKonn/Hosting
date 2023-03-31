@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Muli';
+    src: local('Muli Regular'), local('Muli-Regular'),
+        url('Muli-Regular.woff2') format('woff2'),
+        url('Muli-Regular.woff') format('woff'),
+        url('Muli-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
